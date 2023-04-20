@@ -4,7 +4,7 @@
 	<test name="Test ran in Chrome Browser" >
 		<parameter name="browser" value="chrome" />
 		<classes>
-			<class name="com.cucumberTestng.runners.TestRunner"></class>
+			<class name="runners.TestRunner"></class>
 		</classes>
 	</test>
 </suite> 
